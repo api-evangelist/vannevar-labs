@@ -1,0 +1,51 @@
+aid: vannevar-labs
+name: Vannevar Labs
+description: >-
+  Vannevar Labs is a defense technology company building agentic AI for
+  national security and 21st-century conflict, pre-trained for intelligence
+  missions. Its product portfolio spans open-source intelligence and document
+  exploitation (Decrypt, Serra, TIE, Curator), maritime domain awareness
+  (Revere, Foreshadow), information operations (Overwatch, Local), and mission
+  augmentation (Telescope), deployed across U.S. military bases and partner
+  forces. Vannevar Labs operates as a sales-led, ITAR-restricted defense
+  vendor and does not publish a public developer portal or open APIs.
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Agentic AI
+  - Artificial Intelligence
+  - Defense
+  - Government
+  - Information Operations
+  - ITAR
+  - Maritime Domain Awareness
+  - National Security
+  - OSINT
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/vannevar-labs/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.vannevarlabs.com/
+  - type: Products
+    url: https://www.vannevarlabs.com/products
+  - type: AboutUs
+    url: https://www.vannevarlabs.com/about
+  - type: Leadership
+    url: https://www.vannevarlabs.com/leadership
+  - type: Careers
+    url: https://www.vannevarlabs.com/careers
+  - type: News
+    url: https://www.vannevarlabs.com/news
+  - type: Blog
+    url: https://www.vannevarlabs.com/blog
+  - type: ContactUs
+    url: https://www.vannevarlabs.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/vannevar-labs/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

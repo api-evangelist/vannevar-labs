@@ -2,21 +2,14 @@
   "repo": "vannevar-labs",
   "feeds": [
     {
-      "source": "https://www.vannevarlabs.com/blog",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape",
-      "error": "JS-rendered page, no posts extractable"
-    },
-    {
       "source": "https://www.vannevarlabs.com/news",
-      "feed_url": "",
+      "feed_url": "https://www.vannevarlabs.com/news",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape",
-      "error": "JS-rendered page, no posts extractable"
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-27T13:19:11Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
